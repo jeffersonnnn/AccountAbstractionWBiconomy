@@ -9,14 +9,27 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@biconomy/core-types": "^3.1.0-alpha.0",
+    "@biconomy/particle-auth": "^3.0.0",
+    "@biconomy/smart-account": "^2.0.2",
+    "@biconomy/web3-auth": "^3.0.0",
+    "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
+    "@toruslabs/eccrypto": "^4.0.0",
     "@types/node": "20.6.0",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
+    "encoding": "^0.1.13",
     "eslint": "8.49.0",
     "eslint-config-next": "13.4.19",
+    "ethers": "^5.7.2",
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "rollup-plugin-polyfill-node": "^0.12.0",
+    "stream-browserify": "^3.0.0",
     "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "hardhat": "^2.17.3"
   }
 }
