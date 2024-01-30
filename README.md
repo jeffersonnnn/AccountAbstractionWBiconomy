@@ -1,6 +1,6 @@
 # Next.js Biconomy Project
 
-This is an incomplete project built with Next.js and powered by Biconomy's AA stack, which includes the bundler, smart accounts, paymaster, and mints with the gasless system that Biconomy provides. This project aims to demonstrate the capabilities of Biconomy in simplifying the integration of blockchain functionality into your applications.
+This is an starterpack project built with Next.js and powered by Biconomy's AA stack, which includes the bundler, smart accounts, paymaster, and mints with the gasless system that Biconomy provides. This project aims to show and help developers use the capabilities of Biconomy in simplifying the integration of blockchain functionality into your applications.
 
 ## Table of Contents
 
